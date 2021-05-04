@@ -1,2 +1,2 @@
-# Redes2
-Repositorio para Redes de computadoras II
+# simpleftp
+Skeleton for socket programming lectures
